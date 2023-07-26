@@ -1,51 +1,41 @@
 # Hello, I'm Karuppasamyhariharan. 
+
 You can call me 'Karuppu' or 'Hari' as your wish👋
 
-![Profile Banner](your-banner-image-url)
-
-I'm a [your profession or interests] passionate about [your areas of interest or expertise]. Welcome to my GitHub profile!
+I'm a Web developer, passionate about both Front-End and Back-End . Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-Briefly introduce yourself, mentioning your background, skills, and what you're currently working on or learning.
+I'm a Graduate who just finished my Bachleor degree in Computer Science and Engineering at Kalsalingam Academy of Research and Education. I'm from Tamil Nadu, currently I located at Chennai. I have a good understanding in Front End development skills (currently). I'm seeking opportunity in any web development intership or job. I currently upadte my self in any of my skills mentioned below.
 
 ## 🔭 Projects
 
-List some of your key GitHub projects here. You can use screenshots, GIFs, or links to demo pages to showcase your projects.
-
-- [Project 1](link-to-project-1) - Description of project 1.
-- [Project 2](link-to-project-2) - Description of project 2.
-- [Project 3](link-to-project-3) - Description of project 3.
+- [Prediction of brain tumor using Deep learning techniques](link-to-project-1) - Developed a brain tumor classification model which can classify the type of tumor presnt in it.
+- [Starbucks](link-to-project-2) - Developed a mimic landing page of Starbucks .
+- [Smart Blind Stick](link-to-project-3) - Made prototype of smart blind stick which detects the upcoming obstacles and alert the blind person through earphones.
 
 ## 🌱 I'm Currently Learning
 
-Mention the technologies or topics you're currently learning or want to explore in the near future.
+I'm currently learning on Backend development and java core. In future i will cover the deep learning topics.
 
 ## 📫 How to Reach Me
 
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Personal Website: [Your Website](https://yourwebsite.com)
+- Email: karuppasamyhariharan@gmail.com.com
+- LinkedIn: [Karuppasamyhariharan. A](www.linkedin.com/in/kh10)
+- Personal Website: [Portfolio](https://karuppasamyhari.github.io/Portfolio)
 
 ## 💼 Skills
 
-List some of your key skills here, such as programming languages, frameworks, tools, etc.
+- Java
+- HTML
+- CSS
+- JS
+- C
+- Python
 
 ## ⚡ Fun Fact
 
-Share a fun or interesting fact about yourself.
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=stars)
-
-## 🏆 GitHub Trophies
-
-[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername)
-
-## 🛠️ Open Source Contributions
-
-Mention any open-source projects you've contributed to and links to your contributions.
+I'm a black box who things out of the box.
 
 ## 🗣️ Let's Connect
 
