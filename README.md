@@ -22,7 +22,7 @@ I'm currently learning on Backend development and java core.
 ## 📫 How to Reach Me
 
 - Email: karuppasamyhariharan@gmail.com.com
-- LinkedIn: [Karuppasamyhariharan. A](www.linkedin.com/in/kh10)
+- LinkedIn: [Karuppasamyhariharan. A](https://www.linkedin.com/in/kh10/)
 - 
 ## 💼 Skills
 
