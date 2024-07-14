@@ -1,4 +1,4 @@
-# Hello, I'm Karuppasamyhariharan. 
+# Hello, I'm Karuppasamy hariharan. 
 
 You can call me 'Karuppu' or 'Hari' as your wish👋
 
@@ -6,7 +6,7 @@ I'm a Web developer, passionate about both Front-End and Back-End . Welcome to m
 
 ## 🚀 About Me
 
-I'm a Graduate who just finished my Bachleor degree in Computer Science and Engineering at Kalsalingam Academy of Research and Education. I'm from Tamil Nadu, currently I located at Chennai. I have a good understanding in Front End development skills (currently). I'm seeking opportunity in any web development intership or job. I currently upadte my self in any of my skills mentioned below.
+I'm a Graduate who finished my Bachleor degree in Computer Science and Engineering at Kalsalingam Academy of Research and Education. I'm from Tamil Nadu, currently I located at Chennai. I have a good understanding in Front End development skills and learning Back End technologies. I'm seeking opportunity in any web development intership or job.
 
 ## 🔭 Projects
 
@@ -17,7 +17,7 @@ I'm a Graduate who just finished my Bachleor degree in Computer Science and Engi
 
 ## 🌱 I'm Currently Learning
 
-I'm currently learning on Backend development and java core. In future i will cover the deep learning topics.
+I'm currently learning on Backend development and java core.
 
 ## 📫 How to Reach Me
 
@@ -27,12 +27,10 @@ I'm currently learning on Backend development and java core. In future i will co
 ## 💼 Skills
 
 - Java
+- MySQ
 - HTML
 - CSS
 - JavaScript
-- JS
-- C
-- Python
 
 ## ⚡ Fun Fact
 
